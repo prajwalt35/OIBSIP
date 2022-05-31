@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.background{
+    background-color: lightblue; 
+    background-size: cover;
+    background-blend-mode: darken; 
+}
+.container-description{
+    margin-top:10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Baloo Bhai', cursive;;
+    font-size: 20px;
+    text-align: justify;
+}
+h2 {
+    color: black;
+    font-size: 40px
+}
+
+h3 {
+    font-size: 25px;
+}
+p {
+    font-family: helvetica;
+    font-size: 20px;
+}
+li {
+    font-size: 19px;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+.container{
+    color: green;
+}
+.first-section{
+    width: 55%;
+    margin: 30px;
+}
+.first-section img{
+    height: 350px;
+    width: 330px;
+    margin-left: 430px;
+    border: 4px solid rgb(249, 244, 244);
+}
+.video{
+    text-align: center;
+}
